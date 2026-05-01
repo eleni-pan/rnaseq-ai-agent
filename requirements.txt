@@ -1,0 +1,14 @@
+# Data Analysis & Bioinformatics
+pandas>=2.0.0
+scanpy>=1.9.0
+anndata>=0.9.0
+squidpy>=1.2.0
+
+# AI & LLM Logic
+langchain-google-genai>=1.0.0
+langchain>=0.1.0
+python-dotenv>=1.0.0
+
+# Reporting & Visualization
+markdown>=3.5.0
+matplotlib>=3.8.0
